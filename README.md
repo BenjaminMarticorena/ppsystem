@@ -2,9 +2,9 @@
 Sistema de gestión de procesos de proyectos
 
 ## Pre requisitos
--python 3.6
--django x.x
--gojs
+- python 3.6
+- django x.x
+- gojs
 
 ## Funcionalidades
 - Crear diagrama de flujo de procesos del proyecto
