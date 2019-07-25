@@ -1,12 +1,12 @@
 # ppsystem
 Sistema de gestión de procesos de proyectos
 
-##Pre requisitos
+## Pre requisitos
 -python 3.6
 -django x.x
 -gojs
 
-##Funcionalidades
+## Funcionalidades
 - Crear diagrama de flujo de procesos del proyecto
 - Editar un flujo ya creado
 - Agregar texto de detalle a elementos del diagrama
