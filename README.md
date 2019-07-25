@@ -3,7 +3,7 @@ Sistema de gestión de procesos de proyectos
 
 ## Pre requisitos
 - python 3.6
-- django x.x
+- django 2.2
 - gojs
 
 ## Funcionalidades
